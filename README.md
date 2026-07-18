@@ -6,11 +6,13 @@ A tiny, zero-dependency window into today's live [BasePaint](https://basepaint.x
 
 ## Run it
 
+**On Replit (zero setup):** [**→ open in Replit**](https://replit.com/new/github/zherring/basepaint-starter) — imports this repo into your own workspace; hit Run.
+
+**On GitHub:** click **Use this template** above, or:
+
 ```sh
 python3 -m http.server 8000   # or any static server, or just open index.html
 ```
-
-On **Replit**: remix this repl and hit Run.
 
 ## Build with AI
 
